@@ -1,6 +1,7 @@
 **EXPENSE TRACKER AND MANAGER**	
 
 OVERVIEW
+
 The problem tackled in this project is "Expense Tracking and Management" using solely python as a programming tool. Here, I have utilised python to create a top-down model of a database using nested dictionaries and integrated functions to help with the aforementioned database.
 
 FEATURES
