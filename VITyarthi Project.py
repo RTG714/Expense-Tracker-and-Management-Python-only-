@@ -1,4 +1,4 @@
-print("================EXPENSE TRACKER================")
+print("================ EXPENSE TRACKER ================")
 
 salary=float(input("Enter your salary:"))
 savings=float(input("Enter your ideal savings (Expense should not go above this limit):"))
@@ -165,4 +165,5 @@ def function():
             flag=False
 
 function()
+
 print("\n\n")
