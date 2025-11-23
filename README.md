@@ -17,7 +17,7 @@ STEPS TO INSTALL AND RUN
 1. Confirm the same version of Python as used in the project.
 2. Open your terminal or command prompt.
 3. Navigate to the directory where you want the project to reside.
-4. Use the command: git clone https://github.com/RTG714/Expense-Tracker-and-Management-Python-only.git
+4. Use the command: git clone https://github.com/RTG714/Expense-Tracker-and-Management-Python-only-.git
 5. Running Python code often requires a controlled environment to ensure compatibility. Use tools like virtualenv or conda to isolate the project dependencies.
 6. Navigate to the directory containing the Python script you want to run.
 
