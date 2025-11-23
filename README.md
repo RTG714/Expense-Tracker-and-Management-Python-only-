@@ -18,10 +18,10 @@ STEPS TO INSTALL AND RUN
 2. Open your terminal or command prompt.
 3. Navigate to the directory where you want the project to reside.
 4. Use the command: 
-5.Running Python code often requires a controlled environment to ensure compatibility. Use tools like virtualenv or conda to isolate the project dependencies.
+5. Running Python code often requires a controlled environment to ensure compatibility. Use tools like virtualenv or conda to isolate the project dependencies.
 6. Navigate to the directory containing the Python script you want to run.
 
 INSTRUCTIONS FOR TESTING
 1. This project requires a salary amount as well as ideal savings.
 2. This project has a top-down design, hence the user will have to go down the subsections to get to the desired item.
-3. This project is a basic expense tracker, which does the fundamental tasks of 
+3. This project is a basic expense tracker, which does the fundamental tasks of tracking expenses across multiple spheres of live such as food, transport, shopping, bills, entertainment along with detailed sub-sections.
